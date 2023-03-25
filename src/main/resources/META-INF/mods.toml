@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+credits="cpw"
+authors="cpw"
+license="GPLv3"
+[[mods]]
+    modId="inventorysorter"
+    version="${file.jarVersion}"
+    displayName="Simple Inventory Sorter"
+    description='''
+Simple inventory sorting.
+
+Middle click to sort your inventory.
+Scroll wheel on a stack to move in and out.
+'''
